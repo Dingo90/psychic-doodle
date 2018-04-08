@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  padding-left: 20px;
+  padding-right: 20px;
+  /*width: 1100px;
+  min-width: 800px;*/
+  max-width: 1100px;
+  min-width: 700px;
+  margin: 0 auto;
+}
+
+div {
+  font-family: Garamond;
+}
+
+  div.skills .methodology{
+    width: 310px;
+  }
+
+  div.skills .tools{
+    width: 310px;
+  }
+
+  div.skills .tools p{
+    text-align: right;
+  }
+
+  div.skills .programmingScripting{
+    width: 310px;
+  }
+
+  div.skills .dbmsRdbms{
+    width: 310px;
+  }
+
+  div.references p{
+    font-size: 20px;
+    font-style: italic;
+  }
+
+span{
+  color: Black;
+}
+
+.ctfl{
+  color: maroon;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.jobTitle{
+  text-transform: uppercase;
+  color: maroon;
+}
+
+.environment{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+#college{
+  color: grey;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
+
+/*
+#tools{
+  text-align: center;
+}
+
+#programmingScripting{
+  text-align: right;
+}
+*/
